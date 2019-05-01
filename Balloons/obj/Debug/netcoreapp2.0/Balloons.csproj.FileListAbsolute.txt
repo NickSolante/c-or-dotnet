@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/code/Balloons/obj/Debug/netcoreapp2.0/Balloons.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/code/Balloons/obj/Debug/netcoreapp2.0/Balloons.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/code/Balloons/obj/Debug/netcoreapp2.0/Balloons.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/code/Balloons/obj/Debug/netcoreapp2.0/Balloons.AssemblyInfo.cs
+/Users/frostnovus/Documents/code/Balloons/bin/Debug/netcoreapp2.0/Balloons.deps.json
+/Users/frostnovus/Documents/code/Balloons/bin/Debug/netcoreapp2.0/Balloons.runtimeconfig.json
+/Users/frostnovus/Documents/code/Balloons/bin/Debug/netcoreapp2.0/Balloons.runtimeconfig.dev.json
+/Users/frostnovus/Documents/code/Balloons/bin/Debug/netcoreapp2.0/Balloons.dll
+/Users/frostnovus/Documents/code/Balloons/bin/Debug/netcoreapp2.0/Balloons.pdb
+/Users/frostnovus/Documents/code/Balloons/obj/Debug/netcoreapp2.0/Balloons.dll
+/Users/frostnovus/Documents/code/Balloons/obj/Debug/netcoreapp2.0/Balloons.pdb

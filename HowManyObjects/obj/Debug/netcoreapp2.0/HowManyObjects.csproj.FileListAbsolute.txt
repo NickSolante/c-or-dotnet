@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/code/HowManyObjects/bin/Debug/netcoreapp2.0/HowManyObjects.deps.json
+/Users/frostnovus/Documents/code/HowManyObjects/bin/Debug/netcoreapp2.0/HowManyObjects.runtimeconfig.json
+/Users/frostnovus/Documents/code/HowManyObjects/bin/Debug/netcoreapp2.0/HowManyObjects.runtimeconfig.dev.json
+/Users/frostnovus/Documents/code/HowManyObjects/bin/Debug/netcoreapp2.0/HowManyObjects.dll
+/Users/frostnovus/Documents/code/HowManyObjects/bin/Debug/netcoreapp2.0/HowManyObjects.pdb
+/Users/frostnovus/Documents/code/HowManyObjects/obj/Debug/netcoreapp2.0/HowManyObjects.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/code/HowManyObjects/obj/Debug/netcoreapp2.0/HowManyObjects.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/code/HowManyObjects/obj/Debug/netcoreapp2.0/HowManyObjects.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/code/HowManyObjects/obj/Debug/netcoreapp2.0/HowManyObjects.AssemblyInfo.cs
+/Users/frostnovus/Documents/code/HowManyObjects/obj/Debug/netcoreapp2.0/HowManyObjects.dll
+/Users/frostnovus/Documents/code/HowManyObjects/obj/Debug/netcoreapp2.0/HowManyObjects.pdb

@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/code/PP6/obj/Debug/netcoreapp2.0/PP6.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/code/PP6/obj/Debug/netcoreapp2.0/PP6.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/code/PP6/obj/Debug/netcoreapp2.0/PP6.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/code/PP6/obj/Debug/netcoreapp2.0/PP6.AssemblyInfo.cs
+/Users/frostnovus/Documents/code/PP6/bin/Debug/netcoreapp2.0/PP6.deps.json
+/Users/frostnovus/Documents/code/PP6/bin/Debug/netcoreapp2.0/PP6.runtimeconfig.json
+/Users/frostnovus/Documents/code/PP6/bin/Debug/netcoreapp2.0/PP6.runtimeconfig.dev.json
+/Users/frostnovus/Documents/code/PP6/bin/Debug/netcoreapp2.0/PP6.dll
+/Users/frostnovus/Documents/code/PP6/bin/Debug/netcoreapp2.0/PP6.pdb
+/Users/frostnovus/Documents/code/PP6/obj/Debug/netcoreapp2.0/PP6.dll
+/Users/frostnovus/Documents/code/PP6/obj/Debug/netcoreapp2.0/PP6.pdb

@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/code/PP3/obj/Debug/netcoreapp2.0/PP3.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/code/PP3/obj/Debug/netcoreapp2.0/PP3.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/code/PP3/obj/Debug/netcoreapp2.0/PP3.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/code/PP3/obj/Debug/netcoreapp2.0/PP3.AssemblyInfo.cs
+/Users/frostnovus/Documents/code/PP3/bin/Debug/netcoreapp2.0/PP3.deps.json
+/Users/frostnovus/Documents/code/PP3/bin/Debug/netcoreapp2.0/PP3.runtimeconfig.json
+/Users/frostnovus/Documents/code/PP3/bin/Debug/netcoreapp2.0/PP3.runtimeconfig.dev.json
+/Users/frostnovus/Documents/code/PP3/bin/Debug/netcoreapp2.0/PP3.dll
+/Users/frostnovus/Documents/code/PP3/bin/Debug/netcoreapp2.0/PP3.pdb
+/Users/frostnovus/Documents/code/PP3/obj/Debug/netcoreapp2.0/PP3.dll
+/Users/frostnovus/Documents/code/PP3/obj/Debug/netcoreapp2.0/PP3.pdb

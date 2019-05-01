@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/code/CreditProj1/bin/Debug/netcoreapp2.0/CreditProj1.deps.json
+/Users/frostnovus/Documents/code/CreditProj1/bin/Debug/netcoreapp2.0/CreditProj1.runtimeconfig.json
+/Users/frostnovus/Documents/code/CreditProj1/bin/Debug/netcoreapp2.0/CreditProj1.runtimeconfig.dev.json
+/Users/frostnovus/Documents/code/CreditProj1/bin/Debug/netcoreapp2.0/CreditProj1.dll
+/Users/frostnovus/Documents/code/CreditProj1/bin/Debug/netcoreapp2.0/CreditProj1.pdb
+/Users/frostnovus/Documents/code/CreditProj1/obj/Debug/netcoreapp2.0/CreditProj1.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/code/CreditProj1/obj/Debug/netcoreapp2.0/CreditProj1.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/code/CreditProj1/obj/Debug/netcoreapp2.0/CreditProj1.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/code/CreditProj1/obj/Debug/netcoreapp2.0/CreditProj1.AssemblyInfo.cs
+/Users/frostnovus/Documents/code/CreditProj1/obj/Debug/netcoreapp2.0/CreditProj1.dll
+/Users/frostnovus/Documents/code/CreditProj1/obj/Debug/netcoreapp2.0/CreditProj1.pdb

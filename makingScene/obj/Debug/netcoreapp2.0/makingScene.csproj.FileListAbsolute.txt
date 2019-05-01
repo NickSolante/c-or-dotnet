@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/code/makingScene/bin/Debug/netcoreapp2.0/makingScene.deps.json
+/Users/frostnovus/Documents/code/makingScene/bin/Debug/netcoreapp2.0/makingScene.runtimeconfig.json
+/Users/frostnovus/Documents/code/makingScene/bin/Debug/netcoreapp2.0/makingScene.runtimeconfig.dev.json
+/Users/frostnovus/Documents/code/makingScene/bin/Debug/netcoreapp2.0/makingScene.dll
+/Users/frostnovus/Documents/code/makingScene/bin/Debug/netcoreapp2.0/makingScene.pdb
+/Users/frostnovus/Documents/code/makingScene/obj/Debug/netcoreapp2.0/makingScene.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/code/makingScene/obj/Debug/netcoreapp2.0/makingScene.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/code/makingScene/obj/Debug/netcoreapp2.0/makingScene.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/code/makingScene/obj/Debug/netcoreapp2.0/makingScene.AssemblyInfo.cs
+/Users/frostnovus/Documents/code/makingScene/obj/Debug/netcoreapp2.0/makingScene.dll
+/Users/frostnovus/Documents/code/makingScene/obj/Debug/netcoreapp2.0/makingScene.pdb

@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/code/tedt/bin/Debug/netcoreapp2.0/tedt.deps.json
+/Users/frostnovus/Documents/code/tedt/bin/Debug/netcoreapp2.0/tedt.runtimeconfig.json
+/Users/frostnovus/Documents/code/tedt/bin/Debug/netcoreapp2.0/tedt.runtimeconfig.dev.json
+/Users/frostnovus/Documents/code/tedt/bin/Debug/netcoreapp2.0/tedt.dll
+/Users/frostnovus/Documents/code/tedt/bin/Debug/netcoreapp2.0/tedt.pdb
+/Users/frostnovus/Documents/code/tedt/obj/Debug/netcoreapp2.0/tedt.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/code/tedt/obj/Debug/netcoreapp2.0/tedt.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/code/tedt/obj/Debug/netcoreapp2.0/tedt.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/code/tedt/obj/Debug/netcoreapp2.0/tedt.AssemblyInfo.cs
+/Users/frostnovus/Documents/code/tedt/obj/Debug/netcoreapp2.0/tedt.dll
+/Users/frostnovus/Documents/code/tedt/obj/Debug/netcoreapp2.0/tedt.pdb

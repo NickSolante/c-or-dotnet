@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/code/PassProject1/obj/Debug/netcoreapp2.0/PassProject1.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/code/PassProject1/obj/Debug/netcoreapp2.0/PassProject1.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/code/PassProject1/obj/Debug/netcoreapp2.0/PassProject1.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/code/PassProject1/obj/Debug/netcoreapp2.0/PassProject1.AssemblyInfo.cs
+/Users/frostnovus/Documents/code/PassProject1/bin/Debug/netcoreapp2.0/PassProject1.deps.json
+/Users/frostnovus/Documents/code/PassProject1/bin/Debug/netcoreapp2.0/PassProject1.runtimeconfig.json
+/Users/frostnovus/Documents/code/PassProject1/bin/Debug/netcoreapp2.0/PassProject1.runtimeconfig.dev.json
+/Users/frostnovus/Documents/code/PassProject1/bin/Debug/netcoreapp2.0/PassProject1.dll
+/Users/frostnovus/Documents/code/PassProject1/bin/Debug/netcoreapp2.0/PassProject1.pdb
+/Users/frostnovus/Documents/code/PassProject1/obj/Debug/netcoreapp2.0/PassProject1.dll
+/Users/frostnovus/Documents/code/PassProject1/obj/Debug/netcoreapp2.0/PassProject1.pdb

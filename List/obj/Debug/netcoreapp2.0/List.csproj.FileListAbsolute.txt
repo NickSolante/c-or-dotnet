@@ -1,0 +1,11 @@
+/Users/frostnovus/Documents/code/List/obj/Debug/netcoreapp2.0/List.csprojAssemblyReference.cache
+/Users/frostnovus/Documents/code/List/obj/Debug/netcoreapp2.0/List.csproj.CoreCompileInputs.cache
+/Users/frostnovus/Documents/code/List/obj/Debug/netcoreapp2.0/List.AssemblyInfoInputs.cache
+/Users/frostnovus/Documents/code/List/obj/Debug/netcoreapp2.0/List.AssemblyInfo.cs
+/Users/frostnovus/Documents/code/List/bin/Debug/netcoreapp2.0/List.deps.json
+/Users/frostnovus/Documents/code/List/bin/Debug/netcoreapp2.0/List.runtimeconfig.json
+/Users/frostnovus/Documents/code/List/bin/Debug/netcoreapp2.0/List.runtimeconfig.dev.json
+/Users/frostnovus/Documents/code/List/bin/Debug/netcoreapp2.0/List.dll
+/Users/frostnovus/Documents/code/List/bin/Debug/netcoreapp2.0/List.pdb
+/Users/frostnovus/Documents/code/List/obj/Debug/netcoreapp2.0/List.dll
+/Users/frostnovus/Documents/code/List/obj/Debug/netcoreapp2.0/List.pdb
